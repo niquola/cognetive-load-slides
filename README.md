@@ -1,7 +1,7 @@
-# Clean Architecture Slides
+# Cognetive Load
 
-Slides for rubyspb.ru conference
+Slides for october SPRUG
 
-[http://niquola.github.io/clean-architecture-slides/]
+[http://niquola.github.io/cognetive-load-slides/]
 
 
