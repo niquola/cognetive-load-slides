@@ -1,4 +1,4 @@
-# Cognetive Load
+# Cognitive Load
 
 Slides for october SPRUG
 
